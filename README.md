@@ -2,5 +2,5 @@
 Small stuff for rust
 Observations so far:
 1. Cargo is really nice
-2. You can write functional code that compiles w/ a similar assembly to C, WOW!
+2. You can write functional code that compiles to fast native binaries, WOW!
 
