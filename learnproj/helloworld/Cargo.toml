@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 [package]
 
 name = "hello_world"
 version = "0.0.1"
 authors = [ "a-leut " ]
-=======
-[package]
-
-name = "hello_world"
-version = "0.0.1"
-authors = [ "a-leut " ]
->>>>>>> 2ab1a91acef1b722315ed63936516370b5e5f448

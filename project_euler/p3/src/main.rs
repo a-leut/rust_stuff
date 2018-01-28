@@ -20,6 +20,6 @@ fn primes(max_len: usize) -> Vec<usize> {
 }
 
 fn main() {
-    let p = primes(50);
-    println!("primes: {:?}", p);
+    let p = primes(525600);
+    println!("n primes: {:?}", p.len());
 }

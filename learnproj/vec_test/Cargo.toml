@@ -1,0 +1,6 @@
+[package]
+name = "vec_test"
+version = "0.1.0"
+authors = ["aleut <turbomonkeyninja@gmail.com>"]
+
+[dependencies]
